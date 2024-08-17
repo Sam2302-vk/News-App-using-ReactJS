@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/News-App-using-ReactJS/static/css/main.1ad58bb8.css",
+    "main.js": "/News-App-using-ReactJS/static/js/main.fe946565.js",
+    "index.html": "/News-App-using-ReactJS/index.html",
+    "main.1ad58bb8.css.map": "/News-App-using-ReactJS/static/css/main.1ad58bb8.css.map",
+    "main.fe946565.js.map": "/News-App-using-ReactJS/static/js/main.fe946565.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1ad58bb8.css",
+    "static/js/main.fe946565.js"
+  ]
+}
